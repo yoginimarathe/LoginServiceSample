@@ -27,8 +27,8 @@
     <div class="fl_right">
       <ul>
         
-        <li><a ng-href="/loginRequest">Login</a></li>
-        <li class="last"><a ng-href="/registerRequest">Register</a></li>
+        <li><a ng-href="login.jsp">Login</a></li>
+        <li class="last"><a ng-href="registerRequest.jsp">Register</a></li>
       </ul>
       <form action="#" method="post" id="sitesearch">
         <fieldset>
